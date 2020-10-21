@@ -8,7 +8,7 @@ public class Home {
 
     @GetMapping
     public String home(){
-        return "This is the Spring Boot backend to my online portfolio.";
+        return "This is the Spring Boot backend to my online coding portfolio.";
     }
 
 }
